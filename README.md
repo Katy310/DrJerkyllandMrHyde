@@ -8,5 +8,5 @@
 | Dragos Iancu | Software Developer |
 | Vlad Urziceanu | Software Developer |
 | Ioana Paun | Software Developer |
-| Roxana Racu | Tester |
+| Roxana Racu | Tam Leader |
 | Mihai Popa | Tester |
